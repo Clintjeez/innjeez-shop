@@ -1,0 +1,29 @@
+.hero {
+  height: 80vh;
+  background-color: #fff1e6;
+  border-radius: 1rem;
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.hero-title {
+  padding-top: 10rem;
+}
+.hero-title h1 {
+  font-size: 5rem;
+  margin: 0.1rem;
+}
+.hero-title p {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+.button {
+  height: 3rem;
+  width: 8rem;
+  background-color: #000;
+  color: #fff1e6;
+  font-size: 1.5rem;
+  border: none;
+  border-radius: 5px;
+}
