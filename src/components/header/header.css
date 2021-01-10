@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem;
+}
+.nav-items {
+  display: inline;
+  padding: 1rem;
+}
+.nav-items:hover {
+  color: #cb997e;
+}
