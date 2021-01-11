@@ -1,18 +1,17 @@
 .hero {
-  height: 80vh;
   background-color: #fff1e6;
   border-radius: 1rem;
-  padding: 2rem;
+  padding: 2rem 2rem 0 2rem;
   display: flex;
   justify-content: space-between;
 }
-
 .hero-title {
   padding-top: 10rem;
 }
 .hero-title h1 {
   font-size: 5rem;
   margin: 0.1rem;
+  font-weight: 300;
 }
 .hero-title p {
   font-size: 1.5rem;
@@ -26,4 +25,12 @@
   font-size: 1.5rem;
   border: none;
   border-radius: 5px;
+}
+.button:hover {
+  background-color: #fff1e6;
+  color: #000;
+  border: 1px solid #000;
+}
+.heroImg {
+  max-height: 670px;
 }
