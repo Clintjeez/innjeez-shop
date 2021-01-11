@@ -12,7 +12,7 @@ function heroSlider() {
         <button className="button">Shop</button>
       </div>
       <div>
-        <img src={model1} alt="model" />
+        <img className="heroImg" src={model1} alt="model" />
       </div>
     </div>
   );
